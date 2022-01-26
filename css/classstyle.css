@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(197, 116, 116);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.ele {
+    color: blue;
+    font-size: 36px;
+}
+.even {
+    font-size: 24px;
+}
+.vision {
+    background: rgb(116, 185, 116);
+    font-size: 24px;
+    font-weight: bolder;
+}
